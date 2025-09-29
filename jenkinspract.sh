@@ -1,1 +1,2 @@
-echo "thai is git repo!"
+echo "that is git repo!"
+echo "1st changes"
